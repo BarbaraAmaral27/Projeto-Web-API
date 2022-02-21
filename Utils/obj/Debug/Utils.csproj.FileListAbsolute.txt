@@ -1,0 +1,17 @@
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Utils\bin\Debug\Utils.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Utils\bin\Debug\Utils.pdb
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Utils\obj\Debug\Utils.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Utils\obj\Debug\Utils.pdb
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Utils\bin\Debug\Utils.dll
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Utils\bin\Debug\Utils.pdb
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Utils\obj\Debug\Utils.dll
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Utils\obj\Debug\Utils.pdb
+C:\Users\Barbara\Downloads\Web - Copia\Utils\bin\Debug\Utils.dll
+C:\Users\Barbara\Downloads\Web - Copia\Utils\bin\Debug\Utils.pdb
+C:\Users\Barbara\Downloads\Web - Copia\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\Barbara\Downloads\Web - Copia\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Downloads\Web - Copia\Utils\obj\Debug\Utils.dll
+C:\Users\Barbara\Downloads\Web - Copia\Utils\obj\Debug\Utils.pdb

@@ -1,0 +1,55 @@
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\bin\Debug\RepositoriesEntity.dll.config
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\bin\Debug\RepositoriesEntity.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\bin\Debug\RepositoriesEntity.pdb
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\bin\Debug\EntityFramework.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\bin\Debug\EntityFramework.SqlServer.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\bin\Debug\Models.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\bin\Debug\Models.pdb
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\bin\Debug\EntityFramework.xml
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\bin\Debug\EntityFramework.SqlServer.xml
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.csprojAssemblyReference.cache
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.csproj.CopyComplete
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.pdb
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\bin\Debug\RepositoriesEntity.dll.config
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\bin\Debug\RepositoriesEntity.dll
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\bin\Debug\RepositoriesEntity.pdb
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\bin\Debug\Models.dll
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\bin\Debug\Models.pdb
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.csproj.CopyComplete
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.dll
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.pdb
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\bin\Debug\RepositoriesEntity.dll.config
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\bin\Debug\RepositoriesEntity.dll
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\bin\Debug\RepositoriesEntity.pdb
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\bin\Debug\EntityFramework.dll
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\bin\Debug\Models.dll
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\bin\Debug\Models.pdb
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\bin\Debug\EntityFramework.xml
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.csproj.AssemblyReference.cache
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.csproj.CoreCompileInputs.cache
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.csproj.CopyComplete
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.dll
+C:\projects\projectsJNMoura\web-api\Web\RepositoriesEntity\obj\Debug\RepositoriesEntity.pdb
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\bin\Debug\RepositoriesEntity.dll.config
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\bin\Debug\RepositoriesEntity.dll
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\bin\Debug\RepositoriesEntity.pdb
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\bin\Debug\EntityFramework.dll
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\bin\Debug\Models.dll
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\bin\Debug\Models.pdb
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\bin\Debug\EntityFramework.xml
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\obj\Debug\RepositoriesEntity.csproj.AssemblyReference.cache
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\obj\Debug\RepositoriesEntity.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\obj\Debug\RepositoriesEntity.csproj.CopyComplete
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\obj\Debug\RepositoriesEntity.dll
+C:\Users\Barbara\Downloads\Web - Copia\RepositoriesEntity\obj\Debug\RepositoriesEntity.pdb

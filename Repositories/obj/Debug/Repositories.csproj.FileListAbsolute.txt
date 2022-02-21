@@ -1,0 +1,35 @@
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Repositories\bin\Debug\Repositories.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Repositories\bin\Debug\Repositories.pdb
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Repositories\obj\Debug\Repositories.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Repositories\obj\Debug\Repositories.pdb
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Repositories\bin\Debug\Models.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Repositories\bin\Debug\Models.pdb
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Repositories\bin\Debug\Repositories.dll
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Repositories\bin\Debug\Models.dll
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Repositories\bin\Debug\Models.pdb
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Repositories\obj\Debug\Repositories.dll
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Repositories\obj\Debug\Repositories.pdb
+C:\projects\projectsJNMoura\web-api\Web\Repositories\bin\Debug\Repositories.dll
+C:\projects\projectsJNMoura\web-api\Web\Repositories\bin\Debug\Repositories.pdb
+C:\projects\projectsJNMoura\web-api\Web\Repositories\bin\Debug\Models.dll
+C:\projects\projectsJNMoura\web-api\Web\Repositories\bin\Debug\Models.pdb
+C:\projects\projectsJNMoura\web-api\Web\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\projects\projectsJNMoura\web-api\Web\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\projects\projectsJNMoura\web-api\Web\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\projects\projectsJNMoura\web-api\Web\Repositories\obj\Debug\Repositories.dll
+C:\projects\projectsJNMoura\web-api\Web\Repositories\obj\Debug\Repositories.pdb
+C:\Users\Barbara\Downloads\Web - Copia\Repositories\bin\Debug\Repositories.dll
+C:\Users\Barbara\Downloads\Web - Copia\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Barbara\Downloads\Web - Copia\Repositories\bin\Debug\Models.dll
+C:\Users\Barbara\Downloads\Web - Copia\Repositories\bin\Debug\Models.pdb
+C:\Users\Barbara\Downloads\Web - Copia\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Users\Barbara\Downloads\Web - Copia\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Downloads\Web - Copia\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\Barbara\Downloads\Web - Copia\Repositories\obj\Debug\Repositories.dll
+C:\Users\Barbara\Downloads\Web - Copia\Repositories\obj\Debug\Repositories.pdb

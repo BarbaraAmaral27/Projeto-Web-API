@@ -1,0 +1,27 @@
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\Web\Models\bin\Debug\Models.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\Web\Models\bin\Debug\Models.pdb
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\Web\Models\obj\Debug\Models.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\Web\Models\obj\Debug\Models.pdb
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Models\bin\Debug\Models.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Models\bin\Debug\Models.pdb
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Models\obj\Debug\Models.dll
+D:\sama\cursos\moura\.net-angular-2021-turma01\projetos\web-api\Web\Models\obj\Debug\Models.pdb
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Models\bin\Debug\Models.dll
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Models\bin\Debug\Models.pdb
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Models\obj\Debug\Models.dll
+C:\Users\Gabriel\OneDrive - Fatec Centro Paula Souza\FATEC ADS\cursoJNMoura\projectBib2022\web-api\Web\Models\obj\Debug\Models.pdb
+C:\projects\projectsJNMoura\web-api\Web\Models\bin\Debug\Models.dll
+C:\projects\projectsJNMoura\web-api\Web\Models\bin\Debug\Models.pdb
+C:\projects\projectsJNMoura\web-api\Web\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\projects\projectsJNMoura\web-api\Web\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\projects\projectsJNMoura\web-api\Web\Models\obj\Debug\Models.dll
+C:\projects\projectsJNMoura\web-api\Web\Models\obj\Debug\Models.pdb
+C:\Users\Barbara\Downloads\Web - Copia\Models\bin\Debug\Models.dll
+C:\Users\Barbara\Downloads\Web - Copia\Models\bin\Debug\Models.pdb
+C:\Users\Barbara\Downloads\Web - Copia\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Barbara\Downloads\Web - Copia\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Downloads\Web - Copia\Models\obj\Debug\Models.dll
+C:\Users\Barbara\Downloads\Web - Copia\Models\obj\Debug\Models.pdb
